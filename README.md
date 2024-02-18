@@ -76,15 +76,15 @@ public class User {
 
 Для запуска программы был создан класс [**`GraphicsRunner`**](https://github.com/MironovNikita/sber-homework13/blob/main/src/main/java/com/application/sberhomework13/GraphicsRunner.java), из которого необходимо осуществить запуск. Пользовательский интерфейс выглядит следующим образом:
 
-![startWindow](https://github.com/MironovNikita/sber-homework12/blob/main/res/startWindow.png)
+![startWindow](https://github.com/MironovNikita/sber-homework13/blob/main/res/startWindow.png)
 
 При нажатии кнопки ***"Запросить JSON"*** в пользовательском окне начнут постепенно (каждые 5 секунд) отображаться чанки:
 
-![workingWindow](https://github.com/MironovNikita/sber-homework12/blob/main/res/workingWindow.png)
+![workingWindow](https://github.com/MironovNikita/sber-homework13/blob/main/res/workingWindow.png)
 
 Работа приложения будет продолжаться до тех пор, пока на экран не будут выведены все чанки переданных объектов:
 
-![endWindow](https://github.com/MironovNikita/sber-homework12/blob/main/res/endWindow.png)
+![endWindow](https://github.com/MironovNikita/sber-homework13/blob/main/res/endWindow.png)
 
 ### 💡 Примечание
 
